@@ -7,7 +7,7 @@ author: 鑫鑫
 comments: true
 ---
 
-[English](https://xinxin2021.github.io/blog/cgk-system-app) | [简体中文](https://xinxin2021.github.io/blog/cgk-system-app-zh) | 繁體中文
+[English](/cgk-system-app) | [简体中文](/cgk-system-app-zh) | 繁體中文
 
 1.應用名稱:Computer
 

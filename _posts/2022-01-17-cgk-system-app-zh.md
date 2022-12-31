@@ -7,7 +7,7 @@ author: 鑫鑫
 comments: true
 ---
 
-[English](https://xinxin2021.github.io/blog/cgk-system-app) | 简体中文 | [繁體中文](https://xinxin2021.github.io/blog/cgk-system-app-tc)
+[English](/cgk-system-app) | 简体中文 | [繁體中文](/cgk-system-app-tc)
 
 1.应用名称:Computer
 
@@ -22,5 +22,3 @@ MARKET命令:enable computer
 MARKET命令:enable network
 
 更多应用正在由作者和开发人员努力开发awa……
-
-

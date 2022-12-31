@@ -7,8 +7,6 @@ author: 鑫鑫
 comments: true
 ---
 
-
-
 目前，本工作室已将GitHub Tools和CGK System停止开发。当前本工作室共4项目，其中有两个为停止支持项目，两个为废弃项目。所有来自MacWinLin Studio的存储库已被归档(Archive)。新团队将不会在很快的时间里建立，下一个开发的项目大概率是由CGK Team。请期待下一步进展。
 
 ---
@@ -22,3 +20,7 @@ comments: true
 ---
 
 本工作室新图标已上线，同步运用于编程猫、GitHub和博客。
+
+CGK Team的内部称号已通过，为7K。
+
+CGK Team的全新图标已通过，以CGK和7K为设计元素。
